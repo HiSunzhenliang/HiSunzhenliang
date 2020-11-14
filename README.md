@@ -14,10 +14,10 @@
 </a>
 <br></br>
 
-- **majored in civil engineering at university.**
 - **love coding**
-- **a back-end engineer.**
+- **back-end engineer.**
 - **forcuing on **media technology**.**
+- **majored in civil engineering at university.**
 - **working in Beijing China.**
 
 
