@@ -31,3 +31,14 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/hexo.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg"></code>
+
+📊 **My recent programming status:**
+<!--START_SECTION:waka-->
+```text
+HTML                  4 hrs 3 mins    ███████████▓░░░░░░░░░░░░░   47.20 % 
+Python                2 hrs 47 mins   ████████░░░░░░░░░░░░░░░░░   32.52 % 
+JavaScript            1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+CSS                   38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Sublime Text Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+```
+<!--END_SECTION:waka-->
