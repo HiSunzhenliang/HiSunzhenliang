@@ -9,9 +9,6 @@
 - **🏢majored in civil engineering at university.**
 - **💻working in Beijing China.**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiSunzhenliang&hide=HTML,Roff,JavaScript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 **Languages and Tools:**  
 ![C](https://img.shields.io/badge/-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -32,3 +29,4 @@ No Activity tracked this Week
 
 [![](https://img.shields.io/badge/OS-Deepin%20Linux-33aadd?style=flat&logo=deepin-linux&logoColor=ffffff)](https://www.deepin.org/zh/)
 ![](https://visitor-badge.glitch.me/badge?page_id=HiSunzhenliang.readme)
+
