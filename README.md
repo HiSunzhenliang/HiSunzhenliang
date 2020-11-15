@@ -9,7 +9,7 @@
 - **💻working in Beijing China.**
 
 **Languages and Tools:**  
-![C](https://img.shields.io/badge/-00599C?style=flat-square&logo=c)
+![C](https://img.shields.io/badge/-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python)
 ![Shell](https://img.shields.io/badge/-Shell-blasck?style=flat-square&logo=Shell)
