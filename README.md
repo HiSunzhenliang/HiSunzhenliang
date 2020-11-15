@@ -16,7 +16,7 @@
 
 - **love coding**
 - **back-end engineer.**
-- **forcuing on **media technology**.**
+- **focusing on **media technology**.**
 - **majored in civil engineering at university.**
 - **working in Beijing China.**
 
