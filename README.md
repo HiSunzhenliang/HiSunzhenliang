@@ -3,8 +3,6 @@
 
 <img align="right" alt="GIF" src="https://github.com/HiSunzhenliang/HiSunzhenliang/blob/main/GIF.gif" />
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=HiSunzhenliang&count_private=true&show_icons=true" alt="HiSunzhenliang" />
-
 - **😄love coding**
 - **🔭back-end engineer.**
 - **⚡focusing on **media technology**.**
@@ -30,7 +28,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiSunzhenliang&hide=HTML,Roff,JavaScript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<img align="right"  src="https://github-readme-stats.vercel.app/api?username=HiSunzhenliang&count_private=true&show_icons=true" alt="HiSunzhenliang" />
 
 
 [![](https://img.shields.io/badge/OS-Deepin%20Linux-33aadd?style=flat&logo=deepin-linux&logoColor=ffffff)](https://www.deepin.org/zh/)
