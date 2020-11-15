@@ -1,7 +1,6 @@
 
 ### Hi 👋, I'm SunZhenliang.
 <img align="right"  src="https://github-readme-stats.vercel.app/api?username=HiSunzhenliang&count_private=true&show_icons=true" alt="HiSunzhenliang" />
-<img align="right" alt="GIF" src="https://github.com/HiSunzhenliang/HiSunzhenliang/blob/main/GIF.gif" />
 
 - **😄love coding**
 - **🔭back-end engineer.**
