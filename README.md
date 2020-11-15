@@ -10,7 +10,7 @@
 
 **Languages and Tools:**  
 ![C](https://img.shields.io/badge/-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python)
 ![Shell](https://img.shields.io/badge/-Shell-blasck?style=flat-square&logo=Shell)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -26,6 +26,7 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 <br /><br />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiSunzhenliang&hide=HTML,Roff,JavaScript&layout=compact)" />
+<br /><br />
 <img align="right"  src="https://github-readme-stats.vercel.app/api?username=HiSunzhenliang&count_private=true&show_icons=true" alt="HiSunzhenliang" />
 
 
