@@ -7,6 +7,7 @@
 - **⚡focusing on **media technology**.**
 - **🏢majored in civil engineering at university.**
 - **💻working in Beijing China.**
+- [**My running page**](running.alliswell.top)
 
 **Languages and Tools:**  
 ![C](https://img.shields.io/badge/-00599C?style=flat-square&logo=c&logoColor=white)
