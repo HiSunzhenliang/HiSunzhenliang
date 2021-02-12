@@ -21,11 +21,7 @@
 📊 **My recent programming status:**
 <!--START_SECTION:waka-->
 ```text
-C          1 hr 16 mins    ███████████████▓░░░░░░░░░   62.56 % 
-Other      30 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.71 % 
-JSON       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-Bash       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-Markdown   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 [![](https://img.shields.io/badge/OS-Deepin%20Linux-33aadd?style=flat&logo=deepin-linux&logoColor=ffffff)](https://www.deepin.org/zh/)
