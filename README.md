@@ -28,6 +28,6 @@ JSON    42 mins         █░░░░░░░░░░░░░░░░░�
 Bash    30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 ```
 <!--END_SECTION:waka-->
-[![](https://img.shields.io/badge/OS-Deepin%20Linux-33aadd?style=flat&logo=deepin-linux&logoColor=ffffff)](https://www.deepin.org/zh/)
+[![](https://img.shields.io/ubuntu/v/ubuntu-wallpapers)](https://kubuntu.org/)
 ![](https://visitor-badge.glitch.me/badge?page_id=HiSunzhenliang.readme)
 
