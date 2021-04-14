@@ -2,11 +2,6 @@
 ### Hi 👋, I'm SunZhenliang.
 <img align="right"  src="https://github-readme-stats.vercel.app/api?username=HiSunzhenliang&count_private=true&show_icons=true" alt="HiSunzhenliang" />
 
-- **😄love coding**
-- **🔭back-end engineer.**
-- **⚡focusing on **media technology**.**
-- **🏢majored in civil engineering at university.**
-- **💻working in Beijing China.**
 
 **Languages and Tools:**  
 ![C](https://img.shields.io/badge/-00599C?style=flat-square&logo=c&logoColor=white)
