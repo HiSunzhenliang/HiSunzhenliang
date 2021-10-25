@@ -27,6 +27,6 @@ Makefile   26 mins         ▓░░░░░░░░░░░░░░░░�
 Text       20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 ```
 <!--END_SECTION:waka-->
-[![](https://img.shields.io/ubuntu/v/ubuntu-wallpapers)](https://kubuntu.org/)
+[![](https://img.shields.io/ubuntu/v/ubuntu-wallpapers/focal)](https://kubuntu.org/)
 ![](https://visitor-badge.glitch.me/badge?page_id=HiSunzhenliang.readme)
 
