@@ -29,4 +29,4 @@ C++        12 mins         ▒░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 [![](https://img.shields.io/ubuntu/v/ubuntu-wallpapers/focal)](https://kubuntu.org/)
 ![](https://visitor-badge.glitch.me/badge?page_id=HiSunzhenliang.readme)
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHiSunzhenliang&labelColor=%23697689&countColor=%23263759&style=flat)
