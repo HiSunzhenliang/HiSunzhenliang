@@ -28,4 +28,5 @@ Bash       11 mins         ▒░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 [![](https://img.shields.io/ubuntu/v/ubuntu-wallpapers/focal)](https://kubuntu.org/)
+![](https://img.shields.io/badge/macOS-Monterey-blue)
 ![](https://visitor-badge.glitch.me/badge?page_id=HiSunzhenliang.readme)
