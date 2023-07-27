@@ -16,7 +16,7 @@ Currently, my main focus is on distributed consensus and distributed storage.
 ![VIM](https://img.shields.io/badge/-vim-blasck?&logo=vim)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?&logo=gitlab)
-
+![](https://img.shields.io/badge/macOS-Monterey-blue)
 
 
 📊 **My recent programming status:**
@@ -32,5 +32,5 @@ Bash     9 mins          ░░░░░░░░░░░░░░░░░░�
 <!--<img   src="https://github-readme-stats.vercel.app/api?username=HiSunzhenliang&count_private=true&show_icons=true" alt="HiSunzhenliang" />--> 
 
 
-![](https://img.shields.io/badge/macOS-Monterey-blue)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=HiSunzhenliang.readme)
