@@ -1,8 +1,9 @@
 
 ### Hi 👋, I'm SunZhenliang.
 
-I specialize in infrastructure software development, with past experience in audio and video coding.  
-Now, I'm focused on distributed consensus and storage.
+I'm dedicated to the research and development of basic software.  
+I have experience in developing audio and video codecs.   
+Currently, I'm focusing on consistency protocols and distributed storage.
 
 
 **Languages and Tools:**  
